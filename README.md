@@ -16,4 +16,5 @@ yarn dev
 pnpm install
 pnpm run dev
 ```
-[demo.webm](https://github.com/Vivek-KP/tic-tac-toe/assets/44610017/a9ce020a-b931-4e92-abf2-919a2064beab)
+[demo.webm](https://github.com/Vivek-KP/tic-tac-toe/assets/44610017/8391da9e-83e3-47de-9680-6e6763f3f8ae)
+
